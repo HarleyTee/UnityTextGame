@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d2c8dabe7b131d4e8e4607f1548bfc2, type: 3}
+  m_Name: A4.ThrownAlarm
+  m_EditorClassIdentifier: 
+  storyText: 'You angrily throw your alarm out the window. It flies through the air
+    and collides with the power meter outside your apartment causing 250 people to
+    lose power, Greg on level 6 is so pissed that his orchids are going to wilt that
+    he kicks your door in and drags you to the police station.
+
+
+    Press 1.'
+  nextStates:
+  - {fileID: 11400000, guid: 14e967b307e057749998439dea871b35, type: 2}

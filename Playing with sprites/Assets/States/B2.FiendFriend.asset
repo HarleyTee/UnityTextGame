@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d2c8dabe7b131d4e8e4607f1548bfc2, type: 3}
+  m_Name: B2.FiendFriend
+  m_EditorClassIdentifier: 
+  storyText: "As you walk up to the server with a little bit of apprehension you go
+    to say something as then It says in the weirdest australian accent,\r\n\r\n\"Oh
+    g'day cobba sorry for scaring you earlier in your bathroom, I just have a really
+    hard time making friends, it's kinda hard to approach the situation of introducing
+    your self when your are incorporeal and everyone who normally sees you runs off
+    shit scared screaming like a gallah. anyway I don't want to take up much of your
+    time i just had a question, Wanna be me mate, cobba?\"\r\n\r\n1. \"Sure let's
+    be mates, I've never had an incorporeal amalgamation of souls as a friend before,
+    should be fun\" *queue montage music*\n\r\n2.Politely decline and take your coffee
+    and walk home"
+  nextStates:
+  - {fileID: 11400000, guid: 1359a46fd59fc85409ca1ba6fec957d2, type: 2}
+  - {fileID: 11400000, guid: 3fd9c99530dc5614e9bfe2d68764da4b, type: 2}

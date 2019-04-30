@@ -1,0 +1,13 @@
+State=wakingup
+
+You are walking through a forest completely naked, it is peaceful, serenene almost dreamlike.
+You walk past a tree and you spot a birds nest, a little blue wren pokes its head out and starts to chirp 
+*Beep Beep Beep* you think that's a weird sound for a bird to make "BEEP BEEP BEEEEEEEEEEEP". 
+You open your eyes grogily looking around wondering where the trees went 
+and why the birds are making such annoying sounds. WYD?
+
+Choices
+
+1. Turn off the alarm and get up.
+2. Turn the alarm off and try to get back to your forest.
+3. Throw the alarm out the window.

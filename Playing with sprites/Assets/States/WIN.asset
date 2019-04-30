@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d2c8dabe7b131d4e8e4607f1548bfc2, type: 3}
+  m_Name: WIN
+  m_EditorClassIdentifier: 
+  storyText: "You both walk out into the sun, you turn to your new friend and say\r\n\r\n\"Soooo
+    what do I call you and then what do you want to do?\"\r\n\r\nIt says it's name
+    is Ghlleosrhel soul eater from the seventh dimension.\r\n\r\n\"Cool let's go and
+    play mixed netball\"\r\n\r\nThe next 80 years go by in a montage and it's you
+    and Ghlleosrhel doing all of the activities.\r\n\nOn your death bed Ghlleosrhel
+    is next to you saying, Alright Grag it's time for you to leave this realm, it
+    doesn't hurt and since you agreed to be my friend you're going to the taj mahal
+    of afterlife realms, this one has unicorns\r.\n\r\nPress \"ENTER\" to head to
+    the after life and end game"
+  nextStates:
+  - {fileID: 11400000, guid: 810323e01f7bf654cb82d3d6e9e33f05, type: 2}

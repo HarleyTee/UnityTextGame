@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d2c8dabe7b131d4e8e4607f1548bfc2, type: 3}
+  m_Name: A1.Awaken
+  m_EditorClassIdentifier: 
+  storyText: 'You are walking through a forest completely naked. It is peaceful, serenene
+    and almost dreamlike. You walk past a tree and you spot a birds nest, a little
+    blue wren pokes its head out and starts to chirp *Beep Beep Boop* you think that''s
+    a weird sound for a bird to make "BEEP BEEP BEEEEEEEEEEEP".  You open your eyes
+    grogily looking around wondering where the trees went and why the birds are making
+    such annoying sounds. WYD?
+
+
+    1. Turn off the alarm and get up.
+
+    2. Turn the alarm off and get get back to your forest.
+
+    3. Throw the alarm out the window.
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: 1f97a5a6859d4974286b67048f49a22e, type: 2}
+  - {fileID: 11400000, guid: 64debbd4c85ad064a84d95cc898891b3, type: 2}
+  - {fileID: 11400000, guid: 396578a4893c8ac4e8c6de8f6c58f1d6, type: 2}
